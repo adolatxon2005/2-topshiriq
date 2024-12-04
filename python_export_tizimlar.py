@@ -4,9 +4,9 @@ import csv
 # 2D o'zgaruvchilar ro'yxati (satr va ustunlar bilan jadval ma'lumotlari)
 input_variable = [
     ['S.no','name','e-mail'],
-    [1,'meesha','meesh@email.com'],
-    (2,'abhilasha','ab@email.com'),
-    (3,'arav','arav123@email.com')
+    [1,'adolatxon','adolatxon@email.com'],
+    (2,'munira','mamadaliyevaemail.com'),
+    (3,'diyora','obidjonova3@email.com')
 ]
  
 # Example.csv joriy ishchi katalogda yaratiladi
