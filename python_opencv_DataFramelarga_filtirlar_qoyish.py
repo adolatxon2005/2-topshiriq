@@ -1,3 +1,4 @@
+# Developed by Ibrohimova Adolatxon
 import pandas as pd
 
 data = {'A': [1, 2, 3, 4, 5],
