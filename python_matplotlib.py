@@ -1,3 +1,4 @@
+# Developed by Ibrohimova Adolatxon
 import matplotlib.pyplot as plt 
 
 
