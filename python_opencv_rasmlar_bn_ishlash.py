@@ -1,3 +1,4 @@
+# Developed by Ibrohimova Adolatxon
 import  cv2  
 # rasmni kulrang rang sifatida o‘qing  
 img = cv2.imread(r 'Images\cat.jpeg‘ )  
