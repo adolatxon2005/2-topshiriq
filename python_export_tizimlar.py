@@ -1,3 +1,4 @@
+# Developed by Ibrohimova Adolatxon
 import csv
  
 # 2D o'zgaruvchilar ro'yxati (satr va ustunlar bilan jadval ma'lumotlari)
