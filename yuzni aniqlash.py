@@ -1,3 +1,5 @@
+# Developed by Ibrohimova Adolatxon
+
 # OpenCV program to detect face in real time
 # python OpenCV import kutubxonalari
 # uning funksionalligi qaerda
